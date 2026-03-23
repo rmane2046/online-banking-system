@@ -20,7 +20,7 @@ Technologies Used:
 
 How to Run:
 1. Open the project in any Java IDE (Eclipse / IntelliJ / VS Code)
-2. Compile all Java files
+2. Compile all the Java files
 3. Run the Main.java file
 4. Follow the menu options in the console
 
