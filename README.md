@@ -24,6 +24,6 @@ How to Run:
 3. Run the Main.java file
 4. Follow the menu options in the console
 
-Note:
+Note to keep in mind:
 This project is developed as part of a Java Internship task and focuses mainly on backend
 functionality.
